@@ -1,2 +1,2 @@
-# test-double-in-swift
+# Test Double in Swift
 Example code for Test-Double in Swift
